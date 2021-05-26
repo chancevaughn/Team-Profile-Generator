@@ -18,7 +18,7 @@ It is very simple to create your team. Just follow the prompts and at the end yo
 
 ## The Code Magic
 
-![Screenshot](Develop/Images/Screen Shot 2021-05-26 at 5.26.42 PM.png›)
+![Screenshot](Develop/Images/Screen Shot 2021-05-26 at 5.26.42 PM.png)
 
 ## Video Demo
 
