@@ -6,7 +6,7 @@ Want to create a website to keep track of your employees or teams of employees?
 
 Well here you go!
 
-![Screenshot](Develop/Images/Screen Shot 2021-05-26 at 5.28.58 PM.png)
+![Screenshot](Develop/Images/Top.png)
 
 ## Purpose
 
@@ -18,7 +18,7 @@ It is very simple to create your team. Just follow the prompts and at the end yo
 
 ## The Code Magic
 
-![Screenshot](Develop/Images/Screen Shot 2021-05-26 at 5.26.42 PM.png)
+![Screenshot](Develop/Images/Code.png)
 
 ## Video Demo
 
